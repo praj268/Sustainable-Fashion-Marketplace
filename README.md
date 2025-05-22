@@ -29,9 +29,14 @@ A full-stack e-commerce web application built using the MERN stack and Firebase.
 |----------|----------------|
 | ![Home](pro1.png) | ![Upload](pro2.png) |
 
-> Add more screenshots as needed in a `screenshots/` folder.
+| Contact Page | Shop Upload |
+|----------|----------------|
+| ![Home](pro7.png) | ![Upload](pro3.png) |
+
+
 
 ---
+
 
 ## 🚫 Why Code Folder is Not Included?
 
