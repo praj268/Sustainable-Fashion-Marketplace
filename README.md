@@ -23,6 +23,6 @@ A full-stack e-commerce web application built using the MERN stack and Firebase.
 
 ---
 
-<img src="C:\Users\PCP\OneDrive\Desktop\Project\pro1.png" alt="Project Screenshot" width="600"/>
+<img src="pro1.png" alt="Project Screenshot" width="600"/>
 
 
