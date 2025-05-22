@@ -23,6 +23,24 @@ A full-stack e-commerce web application built using the MERN stack and Firebase.
 
 ---
 
-<img src="pro1.png" alt="Project Screenshot" width="600"/>
+## 📸 Project Screenshots
 
+| Home Page | Product Upload |
+|----------|----------------|
+| ![Home](pro1.png) | ![Upload](pro2.png) |
 
+> Add more screenshots as needed in a `screenshots/` folder.
+
+---
+
+## 🚫 Why Code Folder is Not Included?
+
+This project is connected to a **live database** and includes API keys. For security reasons, the full source code is not publicly shared. If you're an interviewer or collaborator, feel free to contact me for a walkthrough.
+
+---
+
+## 📬 Contact
+
+- 📧 patilprajakta2682003@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prajakta-patil-b3638222a/)  
+- 🐱 [GitHub](https://github.com/praj268)
