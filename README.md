@@ -29,9 +29,13 @@ A full-stack e-commerce web application built using the MERN stack and Firebase.
 |----------|----------------|
 | ![Home](pro1.png) | ![Upload](pro2.png) |
 
-| Contact Page | Shop Upload |
+| Contact Page | Shop Page |
 |----------|----------------|
 | ![Home](pro7.png) | ![Upload](pro3.png) |
+
+| Lookup Page | Result Upload |
+|----------|----------------|
+| ![Home](pro16.png) | ![Upload](pro4.png) |
 
 
 
