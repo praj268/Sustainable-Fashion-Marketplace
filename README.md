@@ -28,6 +28,8 @@ A full-stack e-commerce web application built using the MERN stack and Firebase.
 | Home Page | Product Upload |
 |----------|----------------|
 | ![Home](pro1.png) | ![Upload](pro2.png) |
+🏠 Home Page
+The landing page of the application. It highlights the mission of promoting sustainable fashion, showcases featured products, and includes a clean navigation bar for easy access to all sections. It is fully responsive and designed using Bootstrap and custom CSS.
 
 | Contact Page | Shop Page |
 |----------|----------------|
