@@ -31,6 +31,9 @@ A full-stack e-commerce web application built using the MERN stack and Firebase.
 🏠 Home Page
 The landing page of the application. It highlights the mission of promoting sustainable fashion, showcases featured products, and includes a clean navigation bar for easy access to all sections. It is fully responsive and designed using Bootstrap and custom CSS.
 
+🛍️ Shop Page
+Displays a list of all available products fetched from the MongoDB database. Users can filter products by categories, price range, or sustainability tags. Each product card shows essential info: image, price, material type, and seller info.
+
 | Contact Page | Shop Page |
 |----------|----------------|
 | ![Home](pro7.png) | ![Upload](pro3.png) |
